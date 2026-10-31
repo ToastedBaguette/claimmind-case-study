@@ -1,9 +1,9 @@
-# Case Study: Taking an AI Claims Platform from Code to 22 Hospitals
+# Case Study: Taking an AI Claims Platform from Code to Hospitals Across Indonesia
 
 **Rony Hartono Irawan** · Software Engineer at ClaimMind
 [LinkedIn](https://www.linkedin.com/in/rony-hartono-irawan) · [GitHub](https://github.com/ToastedBaguette)
 
-> ClaimMind is now live at **22 hospitals in Indonesia**, processing **~66,000 claims a month**.
+> ClaimMind is now live at **hospitals across Indonesia**, processing **~66,000 claims a month**.
 > The initial check casemix staff do on each inpatient claim dropped from **~15 minutes to ~2**.
 
 ---
@@ -27,7 +27,7 @@ The hard part is that every hospital is a little different. BPJS verifiers in di
 ## My role
 
 - **Engineering:** I own the frontend architecture and take on backend and data work when needed, including SQL reporting and tracing data discrepancies.
-- **Rollout:** For the first ~10 hospitals, I led every stage myself: kickoff, user training, go-live, and weekly post-launch meetings.
+- **Rollout:** For our first hospital clients, I led every stage myself: kickoff, user training, go-live, and weekly post-launch meetings.
 - **Fitting the hospital's workflow:** I designed parts of the setup around how hospital staff already work, so go-live didn't add confusion.
 - **Scaling:** As the client base grew, onboarding moved to a dedicated client engagement engineer. I became the technical escalation point in client meetings and still support new kickoffs and go-lives.
 
